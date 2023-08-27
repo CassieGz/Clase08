@@ -67,6 +67,11 @@ a:hover{
    
 }
 
+.myCarousel{
+    background: #b2a4ff;
+    padding: 75px 30px;
+}
+
 #servicios{
     background: #b2a4ff;
     width: 100%;
